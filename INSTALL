@@ -1,0 +1,9 @@
+Building F16Coin
+
+See doc/readme-qt.rst for instructions on building F16Coin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of F16Coin.
+
+See doc/build-*.txt for instructions on building f16coind,
+the intended-for-services, no-graphical-interface, reference
+implementation of F16Coin.
